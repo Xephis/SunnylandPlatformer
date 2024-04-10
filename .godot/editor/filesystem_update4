@@ -1,1 +1,9 @@
 res://main.tscn
+res://Player/Player.gd
+res://Frog.tscn
+res://Frog.gd
+res://Player/Player.tscn
+res://world.tscn
+res://Global/Game.gd
+res://Global/Utils.gd
+res://main.gd
