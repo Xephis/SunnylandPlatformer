@@ -1,0 +1,83 @@
+[gd_scene load_steps=7 format=3 uid="uid://54ommue2q1mc"]
+
+[ext_resource type="Script" path="res://bg.gd" id="1_amm8k"]
+[ext_resource type="Texture2D" uid="uid://cvjtcglilfw00" path="res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/back.png" id="1_tbvxt"]
+[ext_resource type="Texture2D" uid="uid://l8neldro74vv" path="res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/middle.png" id="2_22lm3"]
+[ext_resource type="Script" path="res://Village.gd" id="4_y7iol"]
+[ext_resource type="Texture2D" uid="uid://bkpvmjdessejq" path="res://Sunny Land Collection Files/Packs/Sunnyland/environment/Props/tree-house.png" id="5_1djrd"]
+[ext_resource type="Texture2D" uid="uid://ckco20t8ipafx" path="res://Sunny Land Collection Files/Packs/Sunnyland/environment/Props/straw-house.png" id="6_3fwiw"]
+
+[node name="BG" type="ParallaxBackground"]
+script = ExtResource("1_amm8k")
+
+[node name="Sky" type="ParallaxLayer" parent="."]
+motion_scale = Vector2(1, 0)
+motion_mirroring = Vector2(1152, 0)
+metadata/_edit_lock_ = true
+
+[node name="Back" type="Sprite2D" parent="Sky"]
+position = Vector2(576, 360)
+scale = Vector2(3, 3)
+texture = ExtResource("1_tbvxt")
+metadata/_edit_lock_ = true
+
+[node name="Grass" type="ParallaxLayer" parent="."]
+motion_scale = Vector2(0.7, 0)
+motion_mirroring = Vector2(1232, 0)
+metadata/_edit_lock_ = true
+
+[node name="Middle" type="Sprite2D" parent="Grass"]
+position = Vector2(88, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Middle2" type="Sprite2D" parent="Grass"]
+position = Vector2(264, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Middle3" type="Sprite2D" parent="Grass"]
+position = Vector2(440, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Middle4" type="Sprite2D" parent="Grass"]
+position = Vector2(616, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Middle5" type="Sprite2D" parent="Grass"]
+position = Vector2(792, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Middle6" type="Sprite2D" parent="Grass"]
+position = Vector2(968, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Middle7" type="Sprite2D" parent="Grass"]
+position = Vector2(1144, 512)
+texture = ExtResource("2_22lm3")
+metadata/_edit_lock_ = true
+
+[node name="Village" type="ParallaxLayer" parent="."]
+motion_scale = Vector2(0.7, 0)
+motion_mirroring = Vector2(1152, 0)
+script = ExtResource("4_y7iol")
+
+[node name="Tree-house" type="Sprite2D" parent="Village"]
+position = Vector2(104, 576)
+texture = ExtResource("5_1djrd")
+
+[node name="Straw-house" type="Sprite2D" parent="Village"]
+position = Vector2(208, 600)
+texture = ExtResource("6_3fwiw")
+
+[node name="Tree-house2" type="Sprite2D" parent="Village"]
+position = Vector2(699.5, 576)
+texture = ExtResource("5_1djrd")
+
+[node name="Straw-house2" type="Sprite2D" parent="Village"]
+position = Vector2(803.5, 600)
+texture = ExtResource("6_3fwiw")
