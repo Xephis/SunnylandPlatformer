@@ -1,0 +1,874 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1712728673
+bg.gd::GDScript::-1::1712696457::0::1::::<>ParallaxBackground<>::
+bg.tscn::PackedScene::2166404392829066418::1712695156::0::1::::<><>::res://bg.gd<>uid://cvjtcglilfw00::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/back.png<>uid://l8neldro74vv::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/middle.png<>res://Village.gd<>uid://bkpvmjdessejq::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Props/tree-house.png<>uid://ckco20t8ipafx::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Props/straw-house.png
+icon.svg::CompressedTexture2D::4792692462177853498::1712686883::1712728675::1::::<><>::
+main.gd::GDScript::-1::1712688041::0::1::::<>Node2D<>::
+main.tscn::PackedScene::5111636621786058103::1712697251::0::1::::<><>::res://main.gd<>uid://54ommue2q1mc::::res://bg.tscn
+README.md::TextFile::-1::1712728490::0::1::::<><>::
+Village.gd::GDScript::-1::1712693956::0::1::::<>ParallaxLayer<>::
+world.tscn::PackedScene::7800016761376364557::1712697300::0::1::::<><>::uid://dupm2f7jwryjf::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/tileset.png<>res://bg.gd<>uid://dm8eeqyix814l::::res://Player/Player.tscn<>uid://cvjtcglilfw00::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/back.png<>uid://l8neldro74vv::::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/middle.png
+::res://Player/::1712697251
+Player.gd::GDScript::-1::1712696848::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::8069903529610805317::1712697251::0::1::::<><>::res://Player/Player.gd<>uid://bi6ha7o7ehye0::::res://Sunny Land Collection Files/Packs/Sunnyland/spritesheets/player.png<>uid://c5tmic2x2xlee::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/idle/player-idle-1.png<>uid://w4wg2n6h7vc0::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/idle/player-idle-2.png<>uid://hbw0jtbcx0ey::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/idle/player-idle-3.png<>uid://rmx2xtop2b1k::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/idle/player-idle-4.png<>uid://dkvlxe5dptx77::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/jump/player-jump-1.png<>uid://dpeir83f51vrs::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/jump/player-jump-2.png<>uid://dqohah4e61qjv::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/player-run-1.png<>uid://h86ekwc84mgw::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/player-run-2.png<>uid://c483eysxxk3d7::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/player-run-3.png<>uid://828cdon4368r::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/player-run-4.png<>uid://dmwruy253p414::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/player-run-5.png<>uid://cyy3ny1amvvlx::::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/player-run-6.png
+::res://Sunny Land Collection Files/::1712688430
+public-license.txt::TextFile::-1::1712688430::0::1::::<><>::
+::res://Sunny Land Collection Files/Packs/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/previews/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Bettle/::1712688430
+bettle1.png::CompressedTexture2D::7100626674784607513::1712688430::1712728675::1::::<><>::
+bettle2.png::CompressedTexture2D::1089216736650565536::1712688430::1712728675::1::::<><>::
+bettle3.png::CompressedTexture2D::3451695074686197352::1712688430::1712728675::1::::<><>::
+bettle4.png::CompressedTexture2D::5716245473927711496::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Dino/::1712688430
+dino1.png::CompressedTexture2D::2537007630331295335::1712688430::1712728675::1::::<><>::
+dino2.png::CompressedTexture2D::133564024705976615::1712688430::1712728675::1::::<><>::
+dino3.png::CompressedTexture2D::1956248693191524935::1712688430::1712728675::1::::<><>::
+dino4.png::CompressedTexture2D::5961702877948574936::1712688430::1712728675::1::::<><>::
+dino5.png::CompressedTexture2D::822279664866237387::1712688430::1712728675::1::::<><>::
+dino6.png::CompressedTexture2D::2760776125256850814::1712688430::1712728675::1::::<><>::
+dino7.png::CompressedTexture2D::8572847353615987947::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Dino-Idle/::1712688430
+dino-idle1.png::CompressedTexture2D::8438035648608795640::1712688430::1712728675::1::::<><>::
+dino-idle2.png::CompressedTexture2D::6891685182128536128::1712688430::1712728675::1::::<><>::
+dino-idle3.png::CompressedTexture2D::8591888259158332600::1712688430::1712728675::1::::<><>::
+dino-idle4.png::CompressedTexture2D::1065498103334005302::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Dog/::1712688430
+dog1.png::CompressedTexture2D::779256124990239220::1712688430::1712728675::1::::<><>::
+dog2.png::CompressedTexture2D::5862413244563625096::1712688430::1712728675::1::::<><>::
+dog3.png::CompressedTexture2D::8283321556395370822::1712688430::1712728675::1::::<><>::
+dog4.png::CompressedTexture2D::2304202129784256940::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Dog-idle/::1712688430
+dog-idlet1.png::CompressedTexture2D::2308555901873107453::1712688430::1712728675::1::::<><>::
+dog-idlet2.png::CompressedTexture2D::8532352319907622278::1712688430::1712728675::1::::<><>::
+dog-idlet3.png::CompressedTexture2D::5082699714487652176::1712688430::1712728675::1::::<><>::
+dog-idlet4.png::CompressedTexture2D::6060467179324148257::1712688430::1712728675::1::::<><>::
+dog-idlet5.png::CompressedTexture2D::591919480356419566::1712688430::1712728675::1::::<><>::
+dog-idlet6.png::CompressedTexture2D::3923275747426709630::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Slimer/::1712688430
+slimer1.png::CompressedTexture2D::2972474649078649943::1712688430::1712728675::1::::<><>::
+slimer2.png::CompressedTexture2D::157529967566644218::1712688430::1712728675::1::::<><>::
+slimer3.png::CompressedTexture2D::5652132561768185553::1712688430::1712728675::1::::<><>::
+slimer4.png::CompressedTexture2D::6927426630292480779::1712688430::1712728675::1::::<><>::
+slimer5.png::CompressedTexture2D::2230604292161245494::1712688430::1712728675::1::::<><>::
+slimer6.png::CompressedTexture2D::6818742582064497469::1712688430::1712728675::1::::<><>::
+slimer7.png::CompressedTexture2D::1001460573623308494::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Slimer-Idle/::1712688430
+slimer-idle1.png::CompressedTexture2D::1832943912979801036::1712688430::1712728675::1::::<><>::
+slimer-idle2.png::CompressedTexture2D::3941049586705369866::1712688430::1712728675::1::::<><>::
+slimer-idle3.png::CompressedTexture2D::5218086549259506654::1712688430::1712728675::1::::<><>::
+slimer-idle4.png::CompressedTexture2D::2963619529031052716::1712688430::1712728675::1::::<><>::
+slimer-idle5.png::CompressedTexture2D::4393519005917683363::1712688430::1712728675::1::::<><>::
+slimer-idle6.png::CompressedTexture2D::4158994026214426660::1712688430::1712728675::1::::<><>::
+slimer-idle7.png::CompressedTexture2D::8603824058839193932::1712688430::1712728675::1::::<><>::
+slimer-idle8.png::CompressedTexture2D::487897054912038112::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Vulture/::1712688430
+vulture1.png::CompressedTexture2D::100794938988883255::1712688430::1712728675::1::::<><>::
+vulture2.png::CompressedTexture2D::3538579250776325614::1712688430::1712728675::1::::<><>::
+vulture3.png::CompressedTexture2D::5944981292406619290::1712688430::1712728675::1::::<><>::
+vulture4.png::CompressedTexture2D::4078226870232499041::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/Sprites/Vulture-Idle/::1712688430
+vulture-idle1.png::CompressedTexture2D::1124963985114366302::1712688430::1712728675::1::::<><>::
+vulture-idle2.png::CompressedTexture2D::741535543688056960::1712688430::1712728675::1::::<><>::
+vulture-idle3.png::CompressedTexture2D::4180172482053895288::1712688430::1712728675::1::::<><>::
+vulture-idle4.png::CompressedTexture2D::188646921036464464::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/Chibi Enemies Pack/spritesheets/::1712688430
+bettle.png::CompressedTexture2D::6189443071762699894::1712688430::1712728675::1::::<><>::
+dino-idle.png::CompressedTexture2D::3730304563006587999::1712688430::1712728675::1::::<><>::
+dino.png::CompressedTexture2D::4023130478831910459::1712688430::1712728675::1::::<><>::
+dog-idle.png::CompressedTexture2D::1462721593202513601::1712688430::1712728675::1::::<><>::
+dog.png::CompressedTexture2D::7406653309998977368::1712688430::1712728675::1::::<><>::
+slimer-idle.png::CompressedTexture2D::6028261988463397201::1712688430::1712728675::1::::<><>::
+slimer.png::CompressedTexture2D::6043665834341120289::1712688430::1712728675::1::::<><>::
+vulture-idle.png::CompressedTexture2D::1838612888356267841::1712688430::1712728675::1::::<><>::
+vulture.png::CompressedTexture2D::7031860904209690154::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bat/::1712688430
+bat-sheet.png::CompressedTexture2D::7449118005335883067::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bat/bat-fly/::1712688430
+bat-fly1.png::CompressedTexture2D::4376996917236715248::1712688430::1712728675::1::::<><>::
+bat-fly2.png::CompressedTexture2D::8191133923770819783::1712688430::1712728675::1::::<><>::
+bat-fly3.png::CompressedTexture2D::343638277558800757::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bat/bat-hang/::1712688430
+bat-hang1.png::CompressedTexture2D::5650798906758553361::1712688430::1712728675::1::::<><>::
+bat-hang2.png::CompressedTexture2D::1775332564630099395::1712688430::1712728675::1::::<><>::
+bat-hang3.png::CompressedTexture2D::4230038413380770248::1712688430::1712728675::1::::<><>::
+bat-hang4.png::CompressedTexture2D::5184557302352214866::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bear/::1712688430
+bear-sheet.png::CompressedTexture2D::7845915447053976206::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bear/walk/::1712688430
+bear-walk1.png::CompressedTexture2D::3481270201695065384::1712688430::1712728675::1::::<><>::
+bear-walk2.png::CompressedTexture2D::1498858692630401943::1712688430::1712728675::1::::<><>::
+bear-walk3.png::CompressedTexture2D::8145213599734636920::1712688430::1712728675::1::::<><>::
+bear-walk4.png::CompressedTexture2D::7139087848933407093::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bunny/::1712688430
+bunny-sheet.png::CompressedTexture2D::804278509787273818::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/bunny/sprites/::1712688430
+bunny1.png::CompressedTexture2D::9077244675808075738::1712688430::1712728675::1::::<><>::
+bunny2.png::CompressedTexture2D::60962694684690536::1712688430::1712728675::1::::<><>::
+bunny3.png::CompressedTexture2D::178060601124158859::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/pig/::1712688430
+pig-sheet.png::CompressedTexture2D::1066029653656717207::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Enemies Add-ons/SunnyLand Enemies Pack/pig/sprites/::1712688430
+pig1.png::CompressedTexture2D::940164717428937684::1712688430::1712728675::1::::<><>::
+pig2.png::CompressedTexture2D::5932355822167620980::1712688430::1712728675::1::::<><>::
+pig3.png::CompressedTexture2D::84807340778682224::1712688430::1712728675::1::::<><>::
+pig4.png::CompressedTexture2D::6480238787487339293::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/::1712688430
+eagle-sheet.png::CompressedTexture2D::8067437510460161806::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Previews/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Sprites/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Sprites/dive attack/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Sprites/dive attack/sprites/::1712688430
+attack1.png::CompressedTexture2D::1552991107690941153::1712688430::1712728675::1::::<><>::
+attack2.png::CompressedTexture2D::9190538614520869368::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Sprites/fly/::1712688430
+fly1.png::CompressedTexture2D::1379902041899408054::1712688430::1712728675::1::::<><>::
+fly2.png::CompressedTexture2D::6421069781400138673::1712688430::1712728675::1::::<><>::
+fly3.png::CompressedTexture2D::2567513918476745248::1712688430::1712728675::1::::<><>::
+fly4.png::CompressedTexture2D::5841635201231249011::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Sprites/hurt/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/eagle/Sprites/hurt/sprites/::1712688430
+hurt1.png::CompressedTexture2D::6894146260906027900::1712688430::1712728675::1::::<><>::
+hurt2.png::CompressedTexture2D::6942844002576686595::1712688430::1712728675::1::::<><>::
+hurt3.png::CompressedTexture2D::633879756595015921::1712688430::1712728675::1::::<><>::
+hurt4.png::CompressedTexture2D::2099848051201991791::1712688430::1712728675::1::::<><>::
+hurt5.png::CompressedTexture2D::3813324456090020132::1712688430::1712728675::1::::<><>::
+hurt6.png::CompressedTexture2D::7025341680310513141::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/mushroom-spring/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/mushroom-spring/big version/::1712688430
+mushroom-sheet.png::CompressedTexture2D::3409257996832760797::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/mushroom-spring/big version/sprites/::1712688430
+mushroom1.png::CompressedTexture2D::1919251053496585276::1712688430::1712728675::1::::<><>::
+mushroom2.png::CompressedTexture2D::5831889143276870529::1712688430::1712728675::1::::<><>::
+mushroom3.png::CompressedTexture2D::7248846275401714588::1712688430::1712728675::1::::<><>::
+mushroom4.png::CompressedTexture2D::5427850480139873062::1712688430::1712728675::1::::<><>::
+mushroom5.png::CompressedTexture2D::6158193484657414954::1712688430::1712728675::1::::<><>::
+mushroom6.png::CompressedTexture2D::4934920306026559238::1712688430::1712728675::1::::<><>::
+mushroom7.png::CompressedTexture2D::7654201119862541141::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/mushroom-spring/small version/::1712688430
+mushroom-small-sheet.png::CompressedTexture2D::6843471330509769049::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/mushroom-spring/small version/sprites/::1712688430
+mushroom1.png::CompressedTexture2D::9069001450091506806::1712688430::1712728675::1::::<><>::
+mushroom2.png::CompressedTexture2D::2731238474029336561::1712688430::1712728675::1::::<><>::
+mushroom3.png::CompressedTexture2D::8642580831225590883::1712688430::1712728675::1::::<><>::
+mushroom4.png::CompressedTexture2D::2591463876387324956::1712688430::1712728675::1::::<><>::
+mushroom5.png::CompressedTexture2D::7042306430100749529::1712688430::1712728675::1::::<><>::
+mushroom6.png::CompressedTexture2D::8870692209722085098::1712688430::1712728675::1::::<><>::
+mushroom7.png::CompressedTexture2D::8908027630136860009::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/ase/::1712688430
+piranha-plant.png::CompressedTexture2D::5969254608042466433::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/ball/::1712688430
+ball-sheet.png::CompressedTexture2D::1722445072884209318::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/ball/ball sprites/::1712688430
+ball1.png::CompressedTexture2D::6550683706868029284::1712688430::1712728675::1::::<><>::
+ball2.png::CompressedTexture2D::5190072901937974683::1712688430::1712728675::1::::<><>::
+ball3.png::CompressedTexture2D::8736620910702695452::1712688430::1712728675::1::::<><>::
+ball4.png::CompressedTexture2D::8677616973829788360::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/hurt/::1712688430
+piranha-plant-hurt-sheet.png::CompressedTexture2D::6912657270266082623::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/hurt/sprites/::1712688430
+piranha-plant-hurt1.png::CompressedTexture2D::3748077277810043766::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt2.png::CompressedTexture2D::9083251673610627653::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt3.png::CompressedTexture2D::7225693342979787807::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt4.png::CompressedTexture2D::8824109849555640268::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt5.png::CompressedTexture2D::6618849532743222019::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt6.png::CompressedTexture2D::7456261221185721415::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt7.png::CompressedTexture2D::7850124306964853923::1712688430::1712728675::1::::<><>::
+piranha-plant-hurt8.png::CompressedTexture2D::507664669567266610::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/idle/::1712688430
+idle.png::CompressedTexture2D::4308678279601423663::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/idle/sprites/::1712688430
+idle-export1.png::CompressedTexture2D::2170446840743168512::1712688430::1712728675::1::::<><>::
+idle-export2.png::CompressedTexture2D::7417118950183652342::1712688430::1712728675::1::::<><>::
+idle-export3.png::CompressedTexture2D::7178793598107417336::1712688430::1712728675::1::::<><>::
+idle-export4.png::CompressedTexture2D::6841574462450663980::1712688430::1712728675::1::::<><>::
+idle-export5.png::CompressedTexture2D::256067779717100073::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/shoot/::1712688430
+piranha-plant-shoot-sheet.png::CompressedTexture2D::7259334326625057906::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/piranha/shoot/sprites/::1712688430
+piranha-plant-shoot1.png::CompressedTexture2D::6282238853404759936::1712688430::1712728675::1::::<><>::
+piranha-plant-shoot2.png::CompressedTexture2D::7843272027426020305::1712688430::1712728675::1::::<><>::
+piranha-plant-shoot3.png::CompressedTexture2D::3942203653508774598::1712688430::1712728675::1::::<><>::
+piranha-plant-shoot4.png::CompressedTexture2D::8741239164086638427::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/::1712688431
+slug.png::CompressedTexture2D::2505708036984580726::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/hurt/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/hurt/sprites/::1712688430
+hurt1.png::CompressedTexture2D::5289600763011790259::1712688430::1712728675::1::::<><>::
+hurt2.png::CompressedTexture2D::8643197426406401187::1712688430::1712728675::1::::<><>::
+hurt3.png::CompressedTexture2D::3794446903065805685::1712688430::1712728675::1::::<><>::
+hurt4.png::CompressedTexture2D::3200198263618390705::1712688430::1712728675::1::::<><>::
+hurt5.png::CompressedTexture2D::7208790342414790145::1712688430::1712728675::1::::<><>::
+hurt6.png::CompressedTexture2D::5592821736631158487::1712688430::1712728675::1::::<><>::
+hurt7.png::CompressedTexture2D::6998692530532748530::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/Poo Goo/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/Poo Goo/sprites/::1712688430
+poo-goo1.png::CompressedTexture2D::4631569843188216381::1712688430::1712728675::1::::<><>::
+poo-goo2.png::CompressedTexture2D::3808701116954408215::1712688430::1712728675::1::::<><>::
+poo-goo3.png::CompressedTexture2D::1470838537651723474::1712688430::1712728675::1::::<><>::
+poo-goo4.png::CompressedTexture2D::5991088248482912929::1712688430::1712728675::1::::<><>::
+poo-goo5.png::CompressedTexture2D::98483758891885203::1712688430::1712728675::1::::<><>::
+poo-goo6.png::CompressedTexture2D::2907502831543549206::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/stunt/::1712688430
+stunt-sheet.png::CompressedTexture2D::4655139755429746635::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Enemies Add On Pack/Slug/stunt/sprites/::1712688430
+stunt1-sheet.png::CompressedTexture2D::4218172849495962328::1712688430::1712728675::1::::<><>::
+stunt1.png::CompressedTexture2D::3749263573751434162::1712688430::1712728675::1::::<><>::
+stunt2.png::CompressedTexture2D::6228109997055920704::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Expansion Pack/::1712688431
+Props-sheet.png::CompressedTexture2D::4387752357676051002::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Expansion Pack/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Expansion Pack/Previews/::1712688431
+all.png::CompressedTexture2D::5776780540759996863::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Expansion Pack/Sprites/::1712688431
+bridge.png::CompressedTexture2D::6910049917338269608::1712688430::1712728675::1::::<><>::
+log.png::CompressedTexture2D::1021884931490850926::1712688430::1712728675::1::::<><>::
+rock.png::CompressedTexture2D::395836140936987081::1712688430::1712728675::1::::<><>::
+shroom_house.png::CompressedTexture2D::4333356452370288506::1712688430::1712728675::1::::<><>::
+stomp.png::CompressedTexture2D::1539529280074118261::1712688430::1712728675::1::::<><>::
+tower.png::CompressedTexture2D::5560515449728662265::1712688430::1712728675::1::::<><>::
+tree.png::CompressedTexture2D::3455243597275128004::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/environment/::1712688431
+environment-preview.png::CompressedTexture2D::8388342441514851605::1712688430::1712728675::1::::<><>::
+tileset.png::CompressedTexture2D::8560346731900403559::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/environment/Background Layers/::1712688431
+background.png::CompressedTexture2D::3388378610388082937::1712688430::1712728675::1::::<><>::
+middleground.png::CompressedTexture2D::710430238278763901::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/environment/props/::1712688431
+props-sheet.png::CompressedTexture2D::1434361491277727460::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/environment/props/sprites/::1712688431
+house.png::CompressedTexture2D::1050033102734193719::1712688430::1712728675::1::::<><>::
+mushroom-brown.png::CompressedTexture2D::1487230798262922043::1712688430::1712728675::1::::<><>::
+mushroom-red.png::CompressedTexture2D::3479673537230977782::1712688430::1712728675::1::::<><>::
+plant.png::CompressedTexture2D::4602734482933944039::1712688430::1712728675::1::::<><>::
+rock.png::CompressedTexture2D::6181476914025100368::1712688430::1712728675::1::::<><>::
+tree.png::CompressedTexture2D::311082710392085445::1712688430::1712728675::1::::<><>::
+vine.png::CompressedTexture2D::4813939086425495932::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/enemies/bee/::1712688431
+bee-1.png::CompressedTexture2D::5918330688182737321::1712688430::1712728675::1::::<><>::
+bee-2.png::CompressedTexture2D::21979282519004831::1712688430::1712728675::1::::<><>::
+bee-3.png::CompressedTexture2D::899729577110217474::1712688430::1712728675::1::::<><>::
+bee-4.png::CompressedTexture2D::584987531575102492::1712688430::1712728675::1::::<><>::
+bee-5.png::CompressedTexture2D::6817901048039398073::1712688430::1712728675::1::::<><>::
+bee-6.png::CompressedTexture2D::6539509118356388987::1712688430::1712728675::1::::<><>::
+bee-7.png::CompressedTexture2D::2451716759681700900::1712688430::1712728675::1::::<><>::
+bee-8.png::CompressedTexture2D::7185528634832082232::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/enemies/piranha-plant/::1712688431
+piranha-plant-1.png::CompressedTexture2D::8343703073756733193::1712688430::1712728675::1::::<><>::
+piranha-plant-2.png::CompressedTexture2D::7200374487490478158::1712688430::1712728675::1::::<><>::
+piranha-plant-3.png::CompressedTexture2D::8893605458347767909::1712688430::1712728675::1::::<><>::
+piranha-plant-4.png::CompressedTexture2D::4310144213371463902::1712688430::1712728675::1::::<><>::
+piranha-plant-5.png::CompressedTexture2D::8580054821074346999::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/enemies/piranha-plant-attack/::1712688431
+piranha-plant-attack-1.png::CompressedTexture2D::5494429311156312198::1712688430::1712728675::1::::<><>::
+piranha-plant-attack-2.png::CompressedTexture2D::3318018202751882902::1712688430::1712728675::1::::<><>::
+piranha-plant-attack-3.png::CompressedTexture2D::8463511291811618799::1712688430::1712728675::1::::<><>::
+piranha-plant-attack-4.png::CompressedTexture2D::2826885081955737871::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/enemies/slug/::1712688431
+slug-1.png::CompressedTexture2D::3359183044341168375::1712688430::1712728675::1::::<><>::
+slug-2.png::CompressedTexture2D::5229511022278103189::1712688430::1712728675::1::::<><>::
+slug-3.png::CompressedTexture2D::418610688760083015::1712688430::1712728675::1::::<><>::
+slug-4.png::CompressedTexture2D::6672674127841622396::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/misc/carrot/::1712688431
+carrot-1.png::CompressedTexture2D::6090555091989710661::1712688430::1712728675::1::::<><>::
+carrot-2.png::CompressedTexture2D::5087302719640617600::1712688430::1712728675::1::::<><>::
+carrot-3.png::CompressedTexture2D::2667403206217754634::1712688430::1712728675::1::::<><>::
+carrot-4.png::CompressedTexture2D::397436363127483290::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/misc/chest/::1712688431
+chest-1.png::CompressedTexture2D::3608197113182995613::1712688430::1712728675::1::::<><>::
+chest-2.png::CompressedTexture2D::9149567900364090359::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/misc/enemy-death/::1712688431
+enemy-death-1.png::CompressedTexture2D::7193021580233270850::1712688430::1712728675::1::::<><>::
+enemy-death-2.png::CompressedTexture2D::2478590829614046595::1712688430::1712728675::1::::<><>::
+enemy-death-3.png::CompressedTexture2D::2565619712363941038::1712688430::1712728675::1::::<><>::
+enemy-death-4.png::CompressedTexture2D::4687710478966476644::1712688430::1712728675::1::::<><>::
+enemy-death-5.png::CompressedTexture2D::2493024049354903091::1712688430::1712728675::1::::<><>::
+enemy-death-6.png::CompressedTexture2D::2031211060108890605::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/misc/hud/::1712688431
+hud-1.png::CompressedTexture2D::4016833402960422739::1712688430::1712728675::1::::<><>::
+hud-2.png::CompressedTexture2D::664458415874809766::1712688430::1712728675::1::::<><>::
+hud-3.png::CompressedTexture2D::8074761657135372103::1712688430::1712728675::1::::<><>::
+hud-4.png::CompressedTexture2D::1119452069432805375::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/misc/star/::1712688431
+star-1.png::CompressedTexture2D::9171553788088738407::1712688430::1712728675::1::::<><>::
+star-2.png::CompressedTexture2D::5083591579270549195::1712688430::1712728675::1::::<><>::
+star-3.png::CompressedTexture2D::3236366582465821183::1712688430::1712728675::1::::<><>::
+star-4.png::CompressedTexture2D::5639145818364980146::1712688430::1712728675::1::::<><>::
+star-5.png::CompressedTexture2D::7322750511230528625::1712688430::1712728675::1::::<><>::
+star-6.png::CompressedTexture2D::1057154088857292605::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-climb/::1712688431
+player-climb-1.png::CompressedTexture2D::1461957731109317429::1712688430::1712728675::1::::<><>::
+player-climb-2.png::CompressedTexture2D::3520073803563283811::1712688430::1712728675::1::::<><>::
+player-climb-3.png::CompressedTexture2D::1310702146396560616::1712688430::1712728675::1::::<><>::
+player-climb-4.png::CompressedTexture2D::7821570169064583254::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-duck/::1712688431
+player-duck-1.png::CompressedTexture2D::1171816170770072729::1712688430::1712728675::1::::<><>::
+player-duck-2.png::CompressedTexture2D::8044634642761850859::1712688430::1712728675::1::::<><>::
+player-duck-3.png::CompressedTexture2D::7943015039298435713::1712688430::1712728675::1::::<><>::
+player-duck-4.png::CompressedTexture2D::5660808632269335964::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-fall/::1712688431
+player-fall-1.png::CompressedTexture2D::3316745104093127529::1712688430::1712728675::1::::<><>::
+player-fall-2.png::CompressedTexture2D::1978139413495618771::1712688430::1712728675::1::::<><>::
+player-fall-3.png::CompressedTexture2D::4968462978575896316::1712688430::1712728675::1::::<><>::
+player-fall-4.png::CompressedTexture2D::6459343230674373884::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-hurt/::1712688430
+player-hurt-1.png::CompressedTexture2D::5186414306164309736::1712688430::1712728675::1::::<><>::
+player-hurt-2.png::CompressedTexture2D::2358765174390863792::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-idle/::1712688430
+player-idle-1.png::CompressedTexture2D::3354284260501715686::1712688430::1712728675::1::::<><>::
+player-idle-2.png::CompressedTexture2D::4551922498505354378::1712688430::1712728675::1::::<><>::
+player-idle-3.png::CompressedTexture2D::3446810093100167604::1712688430::1712728675::1::::<><>::
+player-idle-4.png::CompressedTexture2D::6986034026519492899::1712688430::1712728675::1::::<><>::
+player-idle-5.png::CompressedTexture2D::6607740417237228327::1712688430::1712728675::1::::<><>::
+player-idle-6.png::CompressedTexture2D::7602672148977285312::1712688430::1712728675::1::::<><>::
+player-idle-7.png::CompressedTexture2D::3635858966820346585::1712688430::1712728675::1::::<><>::
+player-idle-8.png::CompressedTexture2D::1932632782973479680::1712688430::1712728675::1::::<><>::
+player-idle-9.png::CompressedTexture2D::3930716157635905320::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-jump/::1712688430
+player-jump-1.png::CompressedTexture2D::6677541578947412142::1712688430::1712728675::1::::<><>::
+player-jump-2.png::CompressedTexture2D::7126290811751056461::1712688430::1712728675::1::::<><>::
+player-jump-3.png::CompressedTexture2D::2346655974466475029::1712688430::1712728675::1::::<><>::
+player-jump-4.png::CompressedTexture2D::3793541551908405263::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/sprites/player/player-skip/::1712688430
+player-skip-1.png::CompressedTexture2D::9166409363270368514::1712688430::1712728675::1::::<><>::
+player-skip-2.png::CompressedTexture2D::7153917074677440073::1712688430::1712728675::1::::<><>::
+player-skip-3.png::CompressedTexture2D::5950929990981529923::1712688430::1712728675::1::::<><>::
+player-skip-4.png::CompressedTexture2D::20938125997235916::1712688430::1712728675::1::::<><>::
+player-skip-5.png::CompressedTexture2D::4774361061844353889::1712688430::1712728675::1::::<><>::
+player-skip-6.png::CompressedTexture2D::3262777693342167104::1712688430::1712728675::1::::<><>::
+player-skip-7.png::CompressedTexture2D::5902039340600094329::1712688430::1712728675::1::::<><>::
+player-skip-8.png::CompressedTexture2D::460860549288032941::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/spritesheets/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/spritesheets/enemies/::1712688430
+bee.png::CompressedTexture2D::4562545162050659252::1712688430::1712728675::1::::<><>::
+piranha-plant-attack.png::CompressedTexture2D::1327109840787424042::1712688430::1712728675::1::::<><>::
+piranha-plant.png::CompressedTexture2D::4137979857065612716::1712688430::1712728675::1::::<><>::
+slug.png::CompressedTexture2D::442993726993251685::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/spritesheets/misc/::1712688430
+carrot.png::CompressedTexture2D::6979931657075779020::1712688430::1712728675::1::::<><>::
+chest.png::CompressedTexture2D::1441302352137015044::1712688430::1712728675::1::::<><>::
+enemy-death.png::CompressedTexture2D::4449560263699558906::1712688430::1712728675::1::::<><>::
+hud.png::CompressedTexture2D::4687116678508191618::1712688430::1712728675::1::::<><>::
+star.png::CompressedTexture2D::2100952994138654391::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PNG/spritesheets/player/::1712688430
+climb.png::CompressedTexture2D::7979257926444306283::1712688430::1712728675::1::::<><>::
+duck.png::CompressedTexture2D::6549643374328100193::1712688430::1712728675::1::::<><>::
+fall.png::CompressedTexture2D::3762273186790858388::1712688430::1712728675::1::::<><>::
+hurt.png::CompressedTexture2D::8305233377803377917::1712688430::1712728675::1::::<><>::
+idle.png::CompressedTexture2D::4919770605263680894::1712688430::1712728675::1::::<><>::
+jump.png::CompressedTexture2D::5581993625932117604::1712688430::1712728675::1::::<><>::
+skip.png::CompressedTexture2D::5725981128988803392::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PREVIEW GIFS/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PREVIEW GIFS/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PREVIEW GIFS/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PREVIEW GIFS/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PSD/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PSD/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PSD/Environment/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PSD/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest/Forest Pack/PSD/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Expansion Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Expansion Pack/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Expansion Pack/Layers/::1712688431
+back.png::CompressedTexture2D::3233440068513825089::1712688430::1712728675::1::::<><>::
+front.png::CompressedTexture2D::2424106698610793805::1712688430::1712728675::1::::<><>::
+middle.png::CompressedTexture2D::3432943679233302686::1712688430::1712728675::1::::<><>::
+tiles.png::CompressedTexture2D::869391176586798227::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Expansion Pack/Previews/::1712688431
+Illusion-forest-a.png::CompressedTexture2D::9058433877684383785::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Pack/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Pack/Layers/::1712688431
+back.png::CompressedTexture2D::2090954290036786502::1712688430::1712728675::1::::<><>::
+middle.png::CompressedTexture2D::3565123684440081523::1712688430::1712728675::1::::<><>::
+tiles.png::CompressedTexture2D::7666065945873728430::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Forest of Illusion/Forest of Illusion Pack/Previews/::1712688431
+Preview.png::CompressedTexture2D::2542022772155968477::1712688430::1712728675::1::::<><>::
+Previewx3.png::CompressedTexture2D::4361956197999924139::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Fort of Illusion/::1712688430
+::res://Sunny Land Collection Files/Packs/Fort of Illusion/Fort of Illusion Files/::1712688430
+::res://Sunny Land Collection Files/Packs/Fort of Illusion/Fort of Illusion Files/Layers/::1712688431
+all-props.png::CompressedTexture2D::9031052009520943832::1712688430::1712728675::1::::<><>::
+back.png::CompressedTexture2D::7499316286981886087::1712688430::1712728675::1::::<><>::
+front.png::CompressedTexture2D::1985642424477000493::1712688430::1712728675::1::::<><>::
+mountains.png::CompressedTexture2D::6814970427919489950::1712688430::1712728675::1::::<><>::
+tileset.png::CompressedTexture2D::4197496981352508718::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Fort of Illusion/Fort of Illusion Files/Layers/Props/::1712688431
+banner.png::CompressedTexture2D::4748457465339178568::1712688430::1712728675::1::::<><>::
+closed-door.png::CompressedTexture2D::6940877875654146594::1712688430::1712728675::1::::<><>::
+door.png::CompressedTexture2D::9121528590890015322::1712688430::1712728675::1::::<><>::
+flag.png::CompressedTexture2D::2651134187061320980::1712688430::1712728675::1::::<><>::
+window.png::CompressedTexture2D::8502503576526587096::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Fort of Illusion/Fort of Illusion Files/Previews/::1712688431
+Fort-of-Illusion.png::CompressedTexture2D::3938109090801014430::1712688430::1712728675::1::::<><>::
+Fort-of-Illusionx3.png::CompressedTexture2D::6235793809895080941::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Jungle/::1712688430
+preview.png::CompressedTexture2D::6079048276789032920::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Jungle/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Jungle/Layers/::1712688430
+back.png::CompressedTexture2D::1324137856782990642::1712688430::1712728675::1::::<><>::
+middle-a.png::CompressedTexture2D::829215070157175145::1712688430::1712728675::1::::<><>::
+middle-b.png::CompressedTexture2D::2392345556679876542::1712688430::1712728675::1::::<><>::
+middle.png::CompressedTexture2D::4152787934354177762::1712688430::1712728675::1::::<><>::
+tileset.png::CompressedTexture2D::195534201177737298::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Magical Road/::1712688430
+::res://Sunny Land Collection Files/Packs/Magical Road/aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Magical Road/Layers/::1712688430
+back.png::CompressedTexture2D::2931056386149971698::1712688430::1712728675::1::::<><>::
+middle.png::CompressedTexture2D::1094670230629135961::1712688430::1712728675::1::::<><>::
+tileset.png::CompressedTexture2D::1197905936680473243::1712688430::1712728675::1::::<><>::
+tree.png::CompressedTexture2D::6967981450328766275::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Magical Road/Previews/::1712688431
+env-preview-big.png::CompressedTexture2D::2507068960316537697::1712688430::1712728675::1::::<><>::
+env-preview.png::CompressedTexture2D::5211042785123853979::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Shadow Forest/::1712688430
+::res://Sunny Land Collection Files/Packs/Shadow Forest/aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Shadow Forest/Layers/::1712688430
+background.png::CompressedTexture2D::7698802912220931071::1712688430::1712728674::1::::<><>::
+front.png::CompressedTexture2D::57887084879047771::1712688430::1712728674::1::::<><>::
+middle.png::CompressedTexture2D::7427527494946694896::1712688430::1712728674::1::::<><>::
+tileset.png::CompressedTexture2D::2551885402448787936::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Shadow Forest/Layers/front props/::1712688430
+branch1.png::CompressedTexture2D::4848050432733162342::1712688430::1712728675::1::::<><>::
+branch2.png::CompressedTexture2D::1392955769290156353::1712688430::1712728675::1::::<><>::
+leaves.png::CompressedTexture2D::3672275662979500554::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Shadow Forest/Previews/::1712688430
+ShadowForest.png::CompressedTexture2D::388244688800868966::1712688430::1712728674::1::::<><>::
+ShadowForesx3t.png::CompressedTexture2D::2235197834598157825::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/environment/::1712688430
+tileset.png::CompressedTexture2D::8594781722988983711::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Background/::1712688430
+back.png::CompressedTexture2D::6266544010533148123::1712688430::1712728674::1::::<><>::
+middle.png::CompressedTexture2D::840998793167580179::1712688430::1712728674::1::::<><>::
+props.png::CompressedTexture2D::3528742266961386941::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/environment/Props/::1712688430
+big-crate.png::CompressedTexture2D::7467876442132931554::1712688430::1712728674::1::::<><>::
+block-big.png::CompressedTexture2D::6927506450019659301::1712688430::1712728674::1::::<><>::
+block.png::CompressedTexture2D::9184662088447839692::1712688430::1712728674::1::::<><>::
+bush.png::CompressedTexture2D::8841550995965475410::1712688430::1712728674::1::::<><>::
+crank-down.png::CompressedTexture2D::8131512563898378032::1712688430::1712728674::1::::<><>::
+crank-up.png::CompressedTexture2D::3128242449639018487::1712688430::1712728674::1::::<><>::
+crate.png::CompressedTexture2D::600880367962860797::1712688430::1712728674::1::::<><>::
+door-opened.png::CompressedTexture2D::2650519704919115385::1712688430::1712728674::1::::<><>::
+door.png::CompressedTexture2D::4238013334262885220::1712688430::1712728674::1::::<><>::
+face-block.png::CompressedTexture2D::5101388819069650707::1712688430::1712728674::1::::<><>::
+house.png::CompressedTexture2D::7710639433826056750::1712688430::1712728674::1::::<><>::
+palm.png::CompressedTexture2D::8060125794125251352::1712688430::1712728674::1::::<><>::
+pine.png::CompressedTexture2D::1378556891251332881::1712688430::1712728674::1::::<><>::
+plant-house.png::CompressedTexture2D::5785863941746060527::1712688430::1712728674::1::::<><>::
+platform-long.png::CompressedTexture2D::6767422920667591867::1712688430::1712728674::1::::<><>::
+rock-1.png::CompressedTexture2D::7995222803307129289::1712688430::1712728674::1::::<><>::
+rock-2.png::CompressedTexture2D::932546516381597880::1712688430::1712728674::1::::<><>::
+rock.png::CompressedTexture2D::3404310072325437442::1712688430::1712728674::1::::<><>::
+shrooms.png::CompressedTexture2D::5911009243130525498::1712688430::1712728674::1::::<><>::
+sign.png::CompressedTexture2D::1281771648063992492::1712688430::1712728674::1::::<><>::
+skulls.png::CompressedTexture2D::6926046373743473113::1712688430::1712728674::1::::<><>::
+small-platform.png::CompressedTexture2D::2050755494057111953::1712688430::1712728674::1::::<><>::
+spike-skull.png::CompressedTexture2D::7936365741799810247::1712688430::1712728674::1::::<><>::
+spikes-top.png::CompressedTexture2D::840495387460138363::1712688430::1712728674::1::::<><>::
+spikes.png::CompressedTexture2D::8817523162968339717::1712688430::1712728674::1::::<><>::
+straw-house.png::CompressedTexture2D::5479758157554495129::1712688430::1712728674::1::::<><>::
+tree-house.png::CompressedTexture2D::3120571750310348738::1712688430::1712728674::1::::<><>::
+tree.png::CompressedTexture2D::8357764547602799043::1712688430::1712728674::1::::<><>::
+wooden-house.png::CompressedTexture2D::6912285616670988173::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/eagle/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/frog/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/FX/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/items/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/opossum/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/GIF Previews/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/environment/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/MISC/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/eagle/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/frog/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/FX/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/items/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/opossum/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/PSD/sprites/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/cherry/::1712688430
+cherry-1.png::CompressedTexture2D::329913127196179212::1712688430::1712728674::1::::<><>::
+cherry-2.png::CompressedTexture2D::8358969864214663007::1712688430::1712728674::1::::<><>::
+cherry-3.png::CompressedTexture2D::1260466417717615688::1712688430::1712728674::1::::<><>::
+cherry-4.png::CompressedTexture2D::2252808939072151222::1712688430::1712728674::1::::<><>::
+cherry-5.png::CompressedTexture2D::446249354277850803::1712688430::1712728674::1::::<><>::
+cherry-6.png::CompressedTexture2D::6252876123987931245::1712688430::1712728674::1::::<><>::
+cherry-7.png::CompressedTexture2D::2703511377923197793::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/eagle/::1712688430
+eagle-attack-1.png::CompressedTexture2D::9205873919105735427::1712688430::1712728674::1::::<><>::
+eagle-attack-2.png::CompressedTexture2D::4855531701372254256::1712688430::1712728674::1::::<><>::
+eagle-attack-3.png::CompressedTexture2D::865416260285679023::1712688430::1712728674::1::::<><>::
+eagle-attack-4.png::CompressedTexture2D::8721050167295872884::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/enemy-death/::1712688430
+enemy-death-1.png::CompressedTexture2D::5924889073813842842::1712688430::1712728674::1::::<><>::
+enemy-death-2.png::CompressedTexture2D::9180003398778205200::1712688430::1712728674::1::::<><>::
+enemy-death-3.png::CompressedTexture2D::3183645711757336299::1712688430::1712728674::1::::<><>::
+enemy-death-4.png::CompressedTexture2D::7284385312698665496::1712688430::1712728674::1::::<><>::
+enemy-death-5.png::CompressedTexture2D::3710791692506370031::1712688430::1712728674::1::::<><>::
+enemy-death-6.png::CompressedTexture2D::8760540255753215794::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/frog/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/frog/idle/::1712688430
+frog-idle-1.png::CompressedTexture2D::5179657716825069530::1712688430::1712728674::1::::<><>::
+frog-idle-2.png::CompressedTexture2D::2213450714857514541::1712688430::1712728674::1::::<><>::
+frog-idle-3.png::CompressedTexture2D::8429141197956820587::1712688430::1712728674::1::::<><>::
+frog-idle-4.png::CompressedTexture2D::3168560605334192082::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/frog/jump/::1712688430
+frog-jump-1.png::CompressedTexture2D::2112507940671112951::1712688430::1712728674::1::::<><>::
+frog-jump-2.png::CompressedTexture2D::8082759238331124526::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/gem/::1712688430
+gem-1.png::CompressedTexture2D::606177287971121825::1712688430::1712728674::1::::<><>::
+gem-2.png::CompressedTexture2D::6177248374336016946::1712688430::1712728674::1::::<><>::
+gem-3.png::CompressedTexture2D::3351229297389727608::1712688430::1712728674::1::::<><>::
+gem-4.png::CompressedTexture2D::7113399487668743957::1712688430::1712728674::1::::<><>::
+gem-5.png::CompressedTexture2D::8188566420929240319::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/item-feedback/::1712688430
+item-feedback-1.png::CompressedTexture2D::6503707289109468366::1712688430::1712728674::1::::<><>::
+item-feedback-2.png::CompressedTexture2D::2196922517329171588::1712688430::1712728674::1::::<><>::
+item-feedback-3.png::CompressedTexture2D::3137737065686154150::1712688430::1712728674::1::::<><>::
+item-feedback-4.png::CompressedTexture2D::185552981221254919::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/opossum/::1712688430
+opossum-1.png::CompressedTexture2D::4417223825858033728::1712688430::1712728674::1::::<><>::
+opossum-2.png::CompressedTexture2D::6528027422306689571::1712688430::1712728674::1::::<><>::
+opossum-3.png::CompressedTexture2D::7893924553084398570::1712688430::1712728674::1::::<><>::
+opossum-4.png::CompressedTexture2D::3220849810240360730::1712688430::1712728674::1::::<><>::
+opossum-5.png::CompressedTexture2D::5581442684043758830::1712688430::1712728674::1::::<><>::
+opossum-6.png::CompressedTexture2D::1850083361152836968::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/climb/::1712688430
+player-climb-1.png::CompressedTexture2D::8943681525713100475::1712688430::1712728674::1::::<><>::
+player-climb-2.png::CompressedTexture2D::7846494340278602900::1712688430::1712728674::1::::<><>::
+player-climb-3.png::CompressedTexture2D::7540219715408282636::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/crouch/::1712688430
+player-crouch-1.png::CompressedTexture2D::7268789839549491764::1712688430::1712728674::1::::<><>::
+player-crouch-2.png::CompressedTexture2D::2542678730386030443::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/hurt/::1712688430
+player-hurt-1.png::CompressedTexture2D::7820997908381284064::1712688430::1712728674::1::::<><>::
+player-hurt-2.png::CompressedTexture2D::274084236686968243::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/idle/::1712688430
+player-idle-1.png::CompressedTexture2D::6918472891957178304::1712688430::1712728674::1::::<><>::
+player-idle-2.png::CompressedTexture2D::1605369443140783425::1712688430::1712728674::1::::<><>::
+player-idle-3.png::CompressedTexture2D::494767204019247420::1712688430::1712728674::1::::<><>::
+player-idle-4.png::CompressedTexture2D::1219428820209870154::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/jump/::1712688430
+player-jump-1.png::CompressedTexture2D::7905211637069784868::1712688430::1712728674::1::::<><>::
+player-jump-2.png::CompressedTexture2D::8220870087897935352::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/sprites/player/run/::1712688430
+player-run-1.png::CompressedTexture2D::8311610269481011335::1712688430::1712728674::1::::<><>::
+player-run-2.png::CompressedTexture2D::561336300656901706::1712688430::1712728674::1::::<><>::
+player-run-3.png::CompressedTexture2D::6878150807189253398::1712688430::1712728674::1::::<><>::
+player-run-4.png::CompressedTexture2D::2373977451591649727::1712688430::1712728674::1::::<><>::
+player-run-5.png::CompressedTexture2D::8048013693751361469::1712688430::1712728674::1::::<><>::
+player-run-6.png::CompressedTexture2D::6508643272656842953::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Sunnyland/spritesheets/::1712688430
+cherry.png::CompressedTexture2D::7348214903680409171::1712688430::1712728674::1::::<><>::
+eagle-attack.png::CompressedTexture2D::3018446604733713281::1712688430::1712728674::1::::<><>::
+enemy-deadth.png::CompressedTexture2D::7039982371896857843::1712688430::1712728674::1::::<><>::
+frog-idle.png::CompressedTexture2D::317874551792543::1712688430::1712728674::1::::<><>::
+frog-jump.png::CompressedTexture2D::3993008912019133890::1712688430::1712728674::1::::<><>::
+gem.png::CompressedTexture2D::1601642560209143518::1712688430::1712728674::1::::<><>::
+item-feedback.png::CompressedTexture2D::4738397253673448450::1712688430::1712728674::1::::<><>::
+oposum.png::CompressedTexture2D::6417847802051893507::1712688430::1712728674::1::::<><>::
+player.png::CompressedTexture2D::3012353865956626809::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Tall Forest/::1712688430
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Expansion pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Expansion pack/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Expansion pack/Layers/::1712688430
+tileset.png::CompressedTexture2D::1111309084627730010::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Expansion pack/Previews/::1712688430
+tileset-preview.png::CompressedTexture2D::995290957359489072::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Pack/Aseprite/::1712688430
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Pack/Layers/::1712688430
+back.png::CompressedTexture2D::6694699688782537968::1712688430::1712728674::1::::<><>::
+far.png::CompressedTexture2D::5943471349339702243::1712688430::1712728674::1::::<><>::
+middle.png::CompressedTexture2D::785251298580571003::1712688430::1712728674::1::::<><>::
+tileset.png::CompressedTexture2D::5585237104333401897::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Pack/Layers/Props/::1712688430
+Props-sheet.png::CompressedTexture2D::2498615571021994964::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Pack/Layers/Props/Sprites/::1712688430
+moss-1.png::CompressedTexture2D::8844601934891089610::1712688430::1712728674::1::::<><>::
+moss-2.png::CompressedTexture2D::245672743301398683::1712688430::1712728674::1::::<><>::
+Plant.png::CompressedTexture2D::7171868211112456819::1712688430::1712728674::1::::<><>::
+Rock.png::CompressedTexture2D::9061445798786452839::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Tall Forest/Tall Forest Pack/Previews/::1712688430
+forest.png::CompressedTexture2D::6668417405063815871::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/ENVIRONMENT/::1712688430
+tileset.png::CompressedTexture2D::3177828785292074326::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/ENVIRONMENT/Background/::1712688430
+mid-layer-a.png::CompressedTexture2D::7849590616685207591::1712688430::1712728674::1::::<><>::
+mid-layer-b.png::CompressedTexture2D::4330299648561356496::1712688430::1712728674::1::::<><>::
+mountains.png::CompressedTexture2D::7278018604108882990::1712688430::1712728674::1::::<><>::
+sky.png::CompressedTexture2D::4383423171681710906::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/ENVIRONMENT/Props/::1712688430
+prop-sheet.png::CompressedTexture2D::8950570200158817259::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/ENVIRONMENT/Props/Sprites/::1712688430
+branche-left.png::CompressedTexture2D::2634138321681167832::1712688430::1712728674::1::::<><>::
+branche-right.png::CompressedTexture2D::6220942895203556672::1712688430::1712728674::1::::<><>::
+fence-snow.png::CompressedTexture2D::3041400546247256753::1712688430::1712728674::1::::<><>::
+fence.png::CompressedTexture2D::1423504844965528915::1712688430::1712728674::1::::<><>::
+house.png::CompressedTexture2D::7990528021050846583::1712688430::1712728674::1::::<><>::
+pine-snow.png::CompressedTexture2D::1843982025840340931::1712688430::1712728674::1::::<><>::
+pine.png::CompressedTexture2D::2715944319276662603::1712688430::1712728674::1::::<><>::
+tall-tree.png::CompressedTexture2D::4411260268024430641::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/ENVIRONMENTS/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/MISC/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/SPRITES/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/SPRITES/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/SPRITES/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/PSD/SPRITES/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/fox/::1712688430
+fox-sheet.png::CompressedTexture2D::4432955499416748653::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/fox/Sprites/::1712688430
+fox-1.png::CompressedTexture2D::8316138506673757054::1712688430::1712728674::1::::<><>::
+fox-2.png::CompressedTexture2D::4421555736301893999::1712688430::1712728674::1::::<><>::
+fox-3.png::CompressedTexture2D::2703792795110290025::1712688430::1712728674::1::::<><>::
+fox-4.png::CompressedTexture2D::3702061636354105413::1712688430::1712728674::1::::<><>::
+fox-5.png::CompressedTexture2D::4601424815400305966::1712688430::1712728674::1::::<><>::
+fox-6.png::CompressedTexture2D::5416611060530834997::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/owl/::1712688430
+owl-sheet.png::CompressedTexture2D::8414230516971037276::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/owl/Sprites/::1712688430
+owl-1.png::CompressedTexture2D::5503589326309785522::1712688430::1712728674::1::::<><>::
+owl-2.png::CompressedTexture2D::8332240498696355635::1712688430::1712728674::1::::<><>::
+owl-3.png::CompressedTexture2D::2738504849061680200::1712688430::1712728674::1::::<><>::
+owl-4.png::CompressedTexture2D::6938508124973494359::1712688430::1712728674::1::::<><>::
+owl-5.png::CompressedTexture2D::627606113976745605::1712688430::1712728674::1::::<><>::
+owl-6.png::CompressedTexture2D::3733709043685891381::1712688430::1712728674::1::::<><>::
+owl-7.png::CompressedTexture2D::8540086791315682727::1712688430::1712728674::1::::<><>::
+owl-8.png::CompressedTexture2D::4960939275776536724::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/yeti/::1712688430
+yeti-preview.png::CompressedTexture2D::6899126761267684898::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/enemies/yeti/Sprites/::1712688430
+yeti-1.png::CompressedTexture2D::2864893147372753786::1712688430::1712728674::1::::<><>::
+yeti-2.png::CompressedTexture2D::3758292167723367640::1712688430::1712728674::1::::<><>::
+yeti-3.png::CompressedTexture2D::5772542053726589738::1712688430::1712728674::1::::<><>::
+yeti-4.png::CompressedTexture2D::7618004955792228272::1712688430::1712728675::1::::<><>::
+yeti-5.png::CompressedTexture2D::8879193883714416473::1712688430::1712728675::1::::<><>::
+yeti-6.png::CompressedTexture2D::187881718425452823::1712688430::1712728675::1::::<><>::
+yeti-7.png::CompressedTexture2D::7965341279014098053::1712688430::1712728675::1::::<><>::
+yeti-8.png::CompressedTexture2D::6435412410237244897::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/enemy-death/::1712688430
+enemy-death-sheet.png::CompressedTexture2D::1580942578111365322::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/enemy-death/Sprites/::1712688430
+enemy-death-1.png::CompressedTexture2D::6522099366544929555::1712688430::1712728675::1::::<><>::
+enemy-death-2.png::CompressedTexture2D::4308104786264695295::1712688430::1712728675::1::::<><>::
+enemy-death-3.png::CompressedTexture2D::1631433355130738509::1712688430::1712728675::1::::<><>::
+enemy-death-4.png::CompressedTexture2D::3299701522675529563::1712688430::1712728675::1::::<><>::
+enemy-death-5.png::CompressedTexture2D::5360516281716496254::1712688430::1712728675::1::::<><>::
+enemy-death-6.png::CompressedTexture2D::6953199352112568465::1712688430::1712728675::1::::<><>::
+enemy-death-7.png::CompressedTexture2D::1171655206164772869::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/fireball/::1712688430
+fireball-preview.png::CompressedTexture2D::8617941142269282581::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/fireball/Sprites/::1712688430
+fireball-1.png::CompressedTexture2D::5790478801706932601::1712688430::1712728675::1::::<><>::
+fireball-2.png::CompressedTexture2D::32456552655804056::1712688430::1712728675::1::::<><>::
+fireball-3.png::CompressedTexture2D::5917017035690654750::1712688430::1712728675::1::::<><>::
+fireball-4.png::CompressedTexture2D::5181730262778866778::1712688430::1712728675::1::::<><>::
+fireball-5.png::CompressedTexture2D::4608234697776956998::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/fireball-hit/::1712688430
+fireball-hit-preview.png::CompressedTexture2D::7738019536439372562::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/misc/fireball-hit/Sprites/::1712688430
+fireball-hit-1.png::CompressedTexture2D::2496232891793663904::1712688430::1712728675::1::::<><>::
+fireball-hit-2.png::CompressedTexture2D::1772946451637438677::1712688430::1712728675::1::::<><>::
+fireball-hit-3.png::CompressedTexture2D::6001163026863516188::1712688430::1712728675::1::::<><>::
+fireball-hit-4.png::CompressedTexture2D::455790997168423928::1712688430::1712728675::1::::<><>::
+fireball-hit-5.png::CompressedTexture2D::6648356112690837225::1712688430::1712728675::1::::<><>::
+fireball-hit-6.png::CompressedTexture2D::1723366689322739777::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/climb/::1712688430
+climb-sheet.png::CompressedTexture2D::2708340504197052627::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/climb/Sprites/::1712688430
+climb-1.png::CompressedTexture2D::3158592005128724332::1712688430::1712728675::1::::<><>::
+climb-2.png::CompressedTexture2D::4582447177788429425::1712688430::1712728675::1::::<><>::
+climb-3.png::CompressedTexture2D::4486673286098680378::1712688430::1712728675::1::::<><>::
+climb-4.png::CompressedTexture2D::1308926442904419499::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/crouch/::1712688430
+crouch-preview.png::CompressedTexture2D::506822816089263002::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/crouch/Sprites/::1712688430
+crouch-1.png::CompressedTexture2D::5787612201609597420::1712688430::1712728675::1::::<><>::
+crouch-2.png::CompressedTexture2D::3174132798172255965::1712688430::1712728675::1::::<><>::
+crouch-3.png::CompressedTexture2D::4281642782746142678::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/crouch-shot/::1712688430
+crouch-shot-sheet.png::CompressedTexture2D::8782890456994987098::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/crouch-shot/Sprites/::1712688430
+crouch-shot-1.png::CompressedTexture2D::767345652996052311::1712688430::1712728675::1::::<><>::
+crouch-shot-2.png::CompressedTexture2D::5666745442314477984::1712688430::1712728675::1::::<><>::
+crouch-shot-3.png::CompressedTexture2D::7529253901389191320::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/hurt/::1712688430
+hurt-sheet.png::CompressedTexture2D::8559531424400558372::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/hurt/Sprites/::1712688430
+hurt-1.png::CompressedTexture2D::4481960485196994346::1712688430::1712728675::1::::<><>::
+hurt-2.png::CompressedTexture2D::4829953878542530778::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/idle/::1712688430
+idle-preview.png::CompressedTexture2D::5156851191455529973::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/idle/Sprites/::1712688430
+idle-1.png::CompressedTexture2D::2234852199298139259::1712688430::1712728675::1::::<><>::
+idle-2.png::CompressedTexture2D::1878948853146397896::1712688430::1712728675::1::::<><>::
+idle-3.png::CompressedTexture2D::4247534985691441857::1712688430::1712728675::1::::<><>::
+idle-4.png::CompressedTexture2D::2526101484886888923::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/jump/::1712688430
+jump-preview.png::CompressedTexture2D::2045476826423902244::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/jump/Sprites/::1712688430
+jump-1.png::CompressedTexture2D::1688075827835746119::1712688430::1712728675::1::::<><>::
+jump-2.png::CompressedTexture2D::5260813161491802402::1712688430::1712728675::1::::<><>::
+jump-3.png::CompressedTexture2D::6128921012781353495::1712688430::1712728675::1::::<><>::
+jump-4.png::CompressedTexture2D::2811207589341034070::1712688430::1712728675::1::::<><>::
+jump-5.png::CompressedTexture2D::1598525217193823964::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/run/::1712688430
+run-preview.png::CompressedTexture2D::6241133979975282226::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/run/Sprites/::1712688430
+run-1.png::CompressedTexture2D::6648762036809899372::1712688430::1712728675::1::::<><>::
+run-2.png::CompressedTexture2D::2618533148700142833::1712688430::1712728675::1::::<><>::
+run-3.png::CompressedTexture2D::2194680619097279393::1712688430::1712728675::1::::<><>::
+run-4.png::CompressedTexture2D::2427990880825046179::1712688430::1712728675::1::::<><>::
+run-5.png::CompressedTexture2D::1565301868096237179::1712688430::1712728675::1::::<><>::
+run-6.png::CompressedTexture2D::3073950100636581582::1712688430::1712728675::1::::<><>::
+run-7.png::CompressedTexture2D::3978907422879690302::1712688430::1712728675::1::::<><>::
+run-8.png::CompressedTexture2D::6376202675107164249::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/shot/::1712688430
+shot-preview.png::CompressedTexture2D::7357408808163063185::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/shot/Sprites/::1712688430
+shot-1.png::CompressedTexture2D::4990159049295899955::1712688430::1712728675::1::::<><>::
+shot-2.png::CompressedTexture2D::8149650989068815653::1712688430::1712728675::1::::<><>::
+shot-3.png::CompressedTexture2D::1889850725260715466::1712688430::1712728675::1::::<><>::
+shot-4.png::CompressedTexture2D::2973410567231719999::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/walk/::1712688430
+walk-preview.png::CompressedTexture2D::8948232664086065159::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Winter Pack/SPRITES/player/walk/Sprites/::1712688430
+walk-1.png::CompressedTexture2D::1669053083030007433::1712688430::1712728675::1::::<><>::
+walk-2.png::CompressedTexture2D::634359769096885797::1712688430::1712728675::1::::<><>::
+walk-3.png::CompressedTexture2D::9137328388355902788::1712688430::1712728675::1::::<><>::
+walk-4.png::CompressedTexture2D::8938363830511719157::1712688430::1712728675::1::::<><>::
+walk-5.png::CompressedTexture2D::7542126512538572403::1712688430::1712728675::1::::<><>::
+walk-6.png::CompressedTexture2D::2218120388078690212::1712688430::1712728675::1::::<><>::
+walk-7.png::CompressedTexture2D::7414083215732637121::1712688430::1712728675::1::::<><>::
+walk-8.png::CompressedTexture2D::1365920200814840717::1712688430::1712728675::1::::<><>::
+walk-9.png::CompressedTexture2D::4822569817227147704::1712688430::1712728674::1::::<><>::
+walk-10.png::CompressedTexture2D::5089000336384592186::1712688430::1712728674::1::::<><>::
+walk-11.png::CompressedTexture2D::3650911942079117017::1712688430::1712728674::1::::<><>::
+walk-12.png::CompressedTexture2D::2377570856251902148::1712688430::1712728674::1::::<><>::
+walk-13.png::CompressedTexture2D::4765265683066931477::1712688430::1712728674::1::::<><>::
+walk-14.png::CompressedTexture2D::8704032997720744336::1712688430::1712728674::1::::<><>::
+walk-15.png::CompressedTexture2D::4887569757287774842::1712688430::1712728674::1::::<><>::
+walk-16.png::CompressedTexture2D::1113120202402256807::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/ENVIRONMENT/::1712688430
+tileset.png::CompressedTexture2D::8551023803217322479::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/ENVIRONMENT/Bacgkrounds/::1712688430
+bg-clouds.png::CompressedTexture2D::4656567418065742501::1712688430::1712728674::1::::<><>::
+bg-mountains.png::CompressedTexture2D::8883446186813908590::1712688430::1712728675::1::::<><>::
+bg-trees.png::CompressedTexture2D::3793739774674994734::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/ENVIRONMENT/Props/::1712688430
+props-sheet.png::CompressedTexture2D::5955672635968544840::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/ENVIRONMENT/Props/Sprites/::1712688430
+branch-01.png::CompressedTexture2D::4946901237971088388::1712688430::1712728674::1::::<><>::
+branch-02.png::CompressedTexture2D::6816868522635800328::1712688430::1712728675::1::::<><>::
+branch-03.png::CompressedTexture2D::153136323237787506::1712688430::1712728674::1::::<><>::
+branch-04.png::CompressedTexture2D::4023652563271754202::1712688430::1712728675::1::::<><>::
+branch-05.png::CompressedTexture2D::2825241017348254680::1712688430::1712728675::1::::<><>::
+leaves.png::CompressedTexture2D::8019828485505985756::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/PSD/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/PSD/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/PSD/Environment/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/PSD/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/PSD/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/ant/::1712688430
+ant-sheet.png::CompressedTexture2D::6877379206471090382::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/ant/Sprites/::1712688430
+ant-1.png::CompressedTexture2D::5784803010557129958::1712688430::1712728674::1::::<><>::
+ant-2.png::CompressedTexture2D::2861813474293835775::1712688430::1712728674::1::::<><>::
+ant-3.png::CompressedTexture2D::4001450777361445211::1712688430::1712728674::1::::<><>::
+ant-4.png::CompressedTexture2D::5508652310760441374::1712688430::1712728674::1::::<><>::
+ant-5.png::CompressedTexture2D::3629840951113390676::1712688430::1712728674::1::::<><>::
+ant-6.png::CompressedTexture2D::7403075043039133636::1712688430::1712728674::1::::<><>::
+ant-7.png::CompressedTexture2D::2178607615361336895::1712688430::1712728674::1::::<><>::
+ant-8.png::CompressedTexture2D::2635525014359245430::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/gator/::1712688430
+gator-sheet.png::CompressedTexture2D::4251173637852435708::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/gator/Sprites/::1712688430
+gator-1.png::CompressedTexture2D::2234150754568711836::1712688430::1712728674::1::::<><>::
+gator-2.png::CompressedTexture2D::329061578859018459::1712688430::1712728674::1::::<><>::
+gator-3.png::CompressedTexture2D::1246506429074478529::1712688430::1712728674::1::::<><>::
+gator-4.png::CompressedTexture2D::9004080153582711309::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/grasshopper-fall/::1712688430
+grasshopper-fall-sheet.png::CompressedTexture2D::2947291517451098557::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/grasshopper-fall/Sprites/::1712688430
+grasshopper-fall-1.png::CompressedTexture2D::8455563157424877376::1712688430::1712728674::1::::<><>::
+grasshopper-fall-2.png::CompressedTexture2D::6406548845349736012::1712688430::1712728674::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/grasshopper-idle/::1712688430
+grasshopper-idle-sheet.png::CompressedTexture2D::8036986741349155322::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/grasshopper-idle/Sprites/::1712688430
+grasshopper-idle-1.png::CompressedTexture2D::1425825014338529838::1712688430::1712728675::1::::<><>::
+grasshopper-idle-2.png::CompressedTexture2D::6705404482315796031::1712688430::1712728675::1::::<><>::
+grasshopper-idle-3.png::CompressedTexture2D::6968948771550856286::1712688430::1712728675::1::::<><>::
+grasshopper-idle-4.png::CompressedTexture2D::4414682248932697750::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/grasshopper-jump/::1712688430
+grasshopper-jump-sheet.png::CompressedTexture2D::6697497155306982570::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/enemies/grasshopper-jump/Sprites/::1712688430
+grasshopper-jump-1.png::CompressedTexture2D::6445574336712875060::1712688430::1712728675::1::::<><>::
+grasshopper-jump-2.png::CompressedTexture2D::607121483293516844::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/misc/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/misc/acorn/::1712688430
+acorn-1.png::CompressedTexture2D::372713807863209449::1712688430::1712728675::1::::<><>::
+acorn-2.png::CompressedTexture2D::4838535456278202450::1712688430::1712728675::1::::<><>::
+acorn-3.png::CompressedTexture2D::2606855336830373686::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/misc/enemy-death/::1712688430
+enemy-death-1.png::CompressedTexture2D::8223793492455583849::1712688430::1712728675::1::::<><>::
+enemy-death-2.png::CompressedTexture2D::5597458167369559811::1712688430::1712728675::1::::<><>::
+enemy-death-3.png::CompressedTexture2D::6725338920843455433::1712688430::1712728675::1::::<><>::
+enemy-death-4.png::CompressedTexture2D::6956625134584835253::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/player/::1712688430
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/player/crouch/::1712688430
+player-crouch-1.png::CompressedTexture2D::2947637737697038712::1712688430::1712728675::1::::<><>::
+player-crouch-2.png::CompressedTexture2D::3714705852335373775::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/player/hurt/::1712688430
+player-hurt-1.png::CompressedTexture2D::4296246604570621441::1712688430::1712728675::1::::<><>::
+player-hurt-2.png::CompressedTexture2D::8540277076071473471::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/player/idle/::1712688430
+player-idle-1.png::CompressedTexture2D::8971056803141062744::1712688430::1712728675::1::::<><>::
+player-idle-2.png::CompressedTexture2D::7699470239518294250::1712688430::1712728675::1::::<><>::
+player-idle-3.png::CompressedTexture2D::261187622840368335::1712688430::1712728675::1::::<><>::
+player-idle-4.png::CompressedTexture2D::6499771241015755473::1712688430::1712728675::1::::<><>::
+player-idle-5.png::CompressedTexture2D::1760277764491932803::1712688430::1712728675::1::::<><>::
+player-idle-6.png::CompressedTexture2D::6797610584106855376::1712688430::1712728675::1::::<><>::
+player-idle-7.png::CompressedTexture2D::5880027354259137586::1712688430::1712728675::1::::<><>::
+player-idle-8.png::CompressedTexture2D::8486218279948431017::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/player/jump/::1712688430
+player-jump-1.png::CompressedTexture2D::3609213634122299644::1712688430::1712728675::1::::<><>::
+player-jump-2.png::CompressedTexture2D::7820810946626232384::1712688430::1712728675::1::::<><>::
+player-jump-3.png::CompressedTexture2D::5719098190883292741::1712688430::1712728675::1::::<><>::
+player-jump-4.png::CompressedTexture2D::2362327509816170376::1712688430::1712728675::1::::<><>::
+::res://Sunny Land Collection Files/Packs/Woods Pack/SPRITES/player/run/::1712688430
+player-run-1.png::CompressedTexture2D::6716622756421354806::1712688430::1712728675::1::::<><>::
+player-run-2.png::CompressedTexture2D::7989783010484176161::1712688430::1712728675::1::::<><>::
+player-run-3.png::CompressedTexture2D::499473038250754000::1712688430::1712728675::1::::<><>::
+player-run-4.png::CompressedTexture2D::8518087088572251709::1712688430::1712728675::1::::<><>::
+player-run-5.png::CompressedTexture2D::4035806046395112272::1712688430::1712728675::1::::<><>::
+player-run-6.png::CompressedTexture2D::3270042533537837313::1712688430::1712728675::1::::<><>::
