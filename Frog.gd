@@ -56,6 +56,7 @@ func death():
 	Game.Gold += 5
 	Utils.saveGame()
 	chase = false
+	self.queue_free()
 	get_node("AnimatedSprite2D").play("Death")
 	await get_node("AnimatedSprite2D").animation_finished
-	self.queue_free()
+	
